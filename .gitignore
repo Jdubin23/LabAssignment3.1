@@ -1,0 +1,14 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Asset-specific files
+*.log
+*.blend1
+*.blend1.meta
+MemoryCaptures/
