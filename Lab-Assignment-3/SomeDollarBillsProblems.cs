@@ -46,10 +46,4 @@ public class SomeDollarBillsProblems : MonoBehaviour
             Debug.LogFormat("{0} One Dollar Bills", OneDollarBills);
         } 
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
